@@ -1,0 +1,36 @@
+
+
+.content{
+height:1300px;
+}
+
+.picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.picture img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.bg-newcolor {
+  position: relative;
+  right: 0;
+  left: 0;
+  margin-top: 35px;
+  width: 100vw;
+  height: 100px;
+  background-color: #e7e7e7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  
+
+.last-news {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  font-size: 50px;
+}
